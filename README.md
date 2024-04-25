@@ -16,7 +16,7 @@ This project implements a Transformer-based Neural Machine Translation (NMT) mod
 
 ## Project Structure
 
-- `transformer_model.ipynb`: Jupyter Notebook containing the implementation of the Transformer model.
+- `machine_translation.ipynb`: Jupyter Notebook containing the implementation of the Transformer model.
 - `data_preprocessing.ipynb`: Jupyter Notebook for data preprocessing, including text tokenization and vectorization.
 - `data`: Directory containing the dataset files. You can replace these with your own dataset files.
 - `README.md`: This README file providing an overview of the project.
